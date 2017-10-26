@@ -7,6 +7,7 @@ Proyecto final de grado en Administración de Sistemas Informáticos y Redes.
 
 Esta aplicación web permitirá administrar reglas y políticas básicas de manera sencilla.
 Destinada principalmente a personas con un **conocimiento bajo o nulo con la shell** y que quieren añadir seguridad a sus sistemas Linux.
+El script en bash, junto con el uso de SQLite permite que la instalación sea desatendida y transparente para el usuario final.
 
 Este proyecto se realizó con la intención de aprender distintos lenguajes y técnicas de programación, así como el uso de IPTables.
 
@@ -19,4 +20,4 @@ Este proyecto se realizó con la intención de aprender distintos lenguajes y t�
 
 - SQLite
 
-- Bash para el script de instalación
+- Bash para el script de instalación desatendida
