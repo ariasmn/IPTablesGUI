@@ -1,0 +1,1 @@
+Ejecutar "instalar.sh" con permisos de sudo.
