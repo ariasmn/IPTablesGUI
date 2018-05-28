@@ -21,3 +21,4 @@ Este proyecto se realizó con la intención de aprender distintos lenguajes y t�
 - SQLite
 
 - Bash para el script de instalación desatendida
+- Viva España, Viva Pedro Mollinedo y viva el PP
