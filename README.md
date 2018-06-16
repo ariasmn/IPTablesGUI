@@ -1,7 +1,7 @@
 # IPTablesGUI
 Aplicación web para la gestión de IPTables a nivel usuario principiante
 
-Proyecto final de grado en Administración de Sistemas Informáticos y Redes.
+Proyecto final de Administración de Sistemas Informáticos y Redes.
 
 # ATENCIÓN
 
@@ -14,10 +14,10 @@ Este proyecto se realizó con la intención de aprender distintos lenguajes y t�
 # RECURSOS USADOS
 
 - PHP
-- JavaScript
+- JavaScript (JQuery)
 - HTML
-- CSS
+- CSS (Bootstrap)
 
 - SQLite
 
-- Bash para el script de instalación desatendida
+- Bash
