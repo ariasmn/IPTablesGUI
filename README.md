@@ -1,17 +1,15 @@
 # IPTablesGUI
-Aplicación web para la gestión de IPTables a nivel usuario principiante
+Web based iptables administration tool.
 
-Proyecto final de Administración de Sistemas Informáticos y Redes.
+System and network administration degree's final project.
 
-# ATENCIÓN
+# WHAT IS THIS FOR?
+This web application is meant for those users that want to add some basic rules and policies but are not familiar with the Linux shell.
 
-Esta aplicación web permitirá administrar reglas y políticas básicas de manera sencilla.
-Destinada principalmente a personas con un **conocimiento bajo o nulo con la shell** y que quieren añadir seguridad a sus sistemas Linux.
-El script en bash, junto con el uso de SQLite permite que la instalación sea desatendida y transparente para el usuario final.
+It comes with a bash script to automate the installation and set-up.
+**This is not a complete tool, just a simple project to learn about iptables and programming**, feel free to fork the code if you need to make personal adjustments.
 
-Este proyecto se realizó con la intención de aprender distintos lenguajes y técnicas de programación, así como el uso de IPTables.
-
-# RECURSOS USADOS
+# TOOLS USED
 
 - PHP
 - JavaScript (JQuery)
